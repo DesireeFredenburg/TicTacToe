@@ -38,4 +38,13 @@ canvas {
 h1 {
     /* centering heading */
     text-align: center;
+    color: tomato;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    /* centering paragraph */
+    text-align: center;
+    color:goldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
